@@ -72,7 +72,10 @@ img {
     background-size: cover ;
 }
 
-
+.result {
+    font-weight: bold;
+    font-size: 400px ;
+}
 
 .contentImg {
     display: flex;
