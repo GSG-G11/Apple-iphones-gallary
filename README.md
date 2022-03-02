@@ -25,11 +25,11 @@ Amran Elmasri
 
 ## How to install the project
 
-git clone https://github.com/GSG-G11/Apple-iphones-gallary.git
-cd Apple-iphones-gallary
-npm install
-npm start 
-go to https//localhost:8000
+* git clone https://github.com/GSG-G11/Apple-iphones-gallary.git
+* cd Apple-iphones-gallary
+* npm install
+* npm start 
+* go to https//localhost:8000
 
 
 ## Tech used:
